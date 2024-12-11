@@ -66,7 +66,7 @@ h1 {
     width: 100%;
     max-height: 48px;
     height: 100%;
-    }
+}
 
 #bigbang_heading {
     color: #D9AE00;
@@ -157,5 +157,135 @@ h1 {
     height: 415px;
 }
 
+#stringtheory_container {
+    width: 696px;
+    height: 1041px;
+    margin-left: 74px;
+    scroll-margin-right: auto;
+    margin-top: 101px;
+    background-color: none;
+}
 
+#stringtheory_heading_container {
+    text-align: right;
+    margin-left: auto;
+    margin-bottom: 24px;
+    height: 48px;
+}
+
+#stringtheory_heading {
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Lato;
+    font-style: normal;
+    text-transform: uppercase;
+    color: #4716E4;
+    text-align: right;
+}
+
+#stringtheory_content_container {
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background-color: #FFC1E3;
+    height: 222px;
+    margin-bottom: 30px;
+}
+
+#stringtheory_content {
+    color: #616161;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: Lato;
+    text-align: right;
+    font-style: normal;
+    line-height: 29px;
+}
+
+#list_heading {
+    color: #414651;
+    font-size: 24px;
+    font-family: Lato;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 800;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+#stringtheory_list {
+    list-style-type: none;
+    margin-bottom: 30px;
+}
+
+#list_circle_one {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#list_circle_two {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#list_circle_three {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-color: #000;
+    border-radius: 50%;
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+#list_content_one {
+    display: inline-block;
+    vertical-align: middle;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#list_content_two {
+    display: inline-block;
+    vertical-align: middle;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#list_content_three {
+    display: inline-block;
+    vertical-align: middle;
+    color: #C27512;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+#spacing {
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+#stringtheory_svg {
+    height: 415px;
+}
 
